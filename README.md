@@ -1,2 +1,2 @@
-# Hello-world
-just for test
+I am from China,
+i study java.
